@@ -27,3 +27,4 @@ Skills
 - AI/NLP: OpenAI, Hugging Face, RAG
 - Cloud & DevOps: Azure, Docker, Kubernetes
 - Version Control: Git, GitHub
+[![An image of @jainilshah007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jainilshah007)](https://holopin.io/@jainilshah007)
